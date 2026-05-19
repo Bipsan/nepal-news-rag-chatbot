@@ -8,6 +8,8 @@ venv/
 # Vector DB
 nepal_news_db/
 
+nepal_news.csv
+
 # Environment variables
 .env
 
